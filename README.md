@@ -39,7 +39,7 @@ For training:
 $ python train-vit.py -a -w -p data.split
 ```
 
-The network (layout and weights) is provided in the file `vitb32_paper_model.keras`.
+The network (layout and weights) can be downloaded from https://sebastian.sitaru.eu/projects/malassezia-classifier/vitb32_paper_model.keras.
 
 Base network (backbone): `vit_keras.vit.vit_b32`
 
